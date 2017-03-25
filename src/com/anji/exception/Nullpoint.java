@@ -1,5 +1,5 @@
 package com.anji.exception;
-//gopala
+//anji
 public class Nullpoint {
 
 	public static void main(String[] args) {
