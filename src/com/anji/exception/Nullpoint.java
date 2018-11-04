@@ -20,6 +20,7 @@ public class Nullpoint {
 		}
 		System.out.println(buffer);
 	}
+	//hello
 
 	// TODO Auto-generated method stub
 //		StringBuffer buffer = null;
